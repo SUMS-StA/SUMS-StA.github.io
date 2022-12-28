@@ -1,6 +1,6 @@
 ---
 title: "Suggestions"
-permalink: /feedback/
+permalink: /suggestions/
 ---
 
 Have a suggestion on an event or general running of SUMS? Fill out the form below!

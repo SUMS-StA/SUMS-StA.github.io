@@ -7,3 +7,5 @@ main:
     url: /committee/
   - title: "About"
     url: /about/
+  - title: "Suggestions"
+    url: /suggestions/
