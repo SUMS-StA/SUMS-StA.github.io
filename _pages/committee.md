@@ -19,7 +19,7 @@ Social Rep: Ella Yates
 
 First Year Rep: Katie Eremina 
 
-Postgraduate Rep: Peiran Wu
+Postgraduate Rep:
 
 Publicity Rep: Daniel Chavez
 
@@ -35,4 +35,5 @@ General Committee Members:
 - Callum Barber
 - Ifan Howells-Baines
 - Jun Kwon
-- Yanni
+- Ioannis Dabos-Doukas
+- Peiran Wu
