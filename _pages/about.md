@@ -7,7 +7,7 @@ SUMS (short for St Andrews' University Mathematics Society) is a society for the
 
 - Integration Bees
 - Socials
-- SUMO
+- SUMO (Scottish University Mathematics Olympiad)
 - Independent study groups
 - Math Jams
 - Christmas Dinners
