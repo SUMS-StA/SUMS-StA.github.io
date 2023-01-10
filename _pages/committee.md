@@ -5,8 +5,6 @@ permalink: /committee/
 
 ## SUMS Committee: 
 
-(This is outdated, if anyone can compile a list, it would be much appreciated)
-
 President: Daniel Roebuck
 
 Vice President: Arina Bekenova

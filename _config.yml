@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "SUMS"
   avatar : "assets/images/sums-logo.svg"
-  bio    : "I am a cute nerd who is good at maths."
+  bio    : "St Andrews Mathematics Society"
   links:
     - label: "SUMS Facebook"
       icon: "fab fa-fw fa-facebook"
@@ -106,7 +106,7 @@ tag_archive:
   path: /tags/
 
 copyright:
-  year: "2022"
+  year: "2023"
   holder: "St Andrews University Mathematics Society and contributors"
 
 atom_feed:
