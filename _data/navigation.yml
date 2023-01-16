@@ -1,8 +1,6 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Committee"
-    url: /committee/
   - title: "About"
     url: /about/
   - title: "Suggestions"
