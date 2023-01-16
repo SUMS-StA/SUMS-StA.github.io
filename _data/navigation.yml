@@ -1,7 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Weekly Emails"
+    url: /categories/#emails 
   - title: "About"
     url: /about/
   - title: "Suggestions"
     url: /suggestions/
+  - title: "All Posts"
+    url: /posts/
