@@ -1,6 +1,8 @@
 main:
   - title: "Weekly Emails"
     url: /categories/#emails 
+  - title: "Events"
+    url: /standard-events/
   - title: "About"
     url: /about/
   - title: "Suggestions"
