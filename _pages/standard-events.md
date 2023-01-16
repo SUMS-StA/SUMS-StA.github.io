@@ -45,7 +45,7 @@ There are several mathematics competitions that SUMS members are eligible to par
 
 # Annual events in semester 2
 
-## Pi Bal
+## Pi Ball
 
 Pi Ball (hosted in collaboration with the School of Mathematics and Statistics) is the biggest event that we run. It consists of a fancy 3-course meal and then a big Ceilidh. This year it will be hosted at the Old Course Hotel on the 11th of March (ticket release is week 2).
 
