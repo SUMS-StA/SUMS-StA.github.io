@@ -3,7 +3,7 @@ permalink: /agm/
 title: "AGM Nominations"
 ---
 
-Below you will find nominees for SUMS committee roles for the next academic year. Below each name you will find the roles they're applying for and a statement written by each one. 
+Below you will find nominees for SUMS committee roles. Below each name you will find the roles they're applying for and a statement written by each one. 
 
 # Leo Doherty
 
