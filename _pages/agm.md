@@ -33,7 +33,18 @@ I would like to run for treasurer because I'm organised and enjoyed my first yea
 
 ## Applying for: **First Year Rep, General Committee Member**
 
+I am a direct entry maths student who moved to St Andrews in September from a small town in South Wales. I didn’t know anybody here before I arrived – most of the amazing friends I have made have been through maths lectures or networking through SUMS. I would love to get more involved in the society, and becoming a part of committee would give me the opportunity to do that. I thrive by keeping myself busy, but I always put in the hard graft to make things happen. I’m always up for a challenge. I’m passionate about encouraging people to get involved and making everyone feel welcomed and included. My positive experiences this year will give me the platform to help everybody, especially freshers, integrate into the society.
+
 # Deyao Chen
 
-## Applyinf for: **Technical Officer**
+## Applying for: **Technical Officer**
+
+I am Deyao and I was the technological officer this year. I would like to run for the technological officer again. 
+
+This year, I have built and maintained the sums website, consolidated and integrated all the various links into one place, continued maintaining and updating the sumo website, and built and maintained various discord bots to manage the sums and sumo discord by allowing people to get roles. 
+
+I hope that I was able to demonstrate my value to the society through my actions this year. I have also done various other coding projects such as writing problems and maintaining the platform for competitive programming and doing some research in machine learning. So hopefully I will be even more fit for the role if I am re-elected next year. 
+
+If I am re-elected, I will continue to maintain and update the two websites, respond to various request for other tech products that sums needs such as ticketing and payment. I hope I have proven to be useful and will continue to bring value to the team. 
+
 
