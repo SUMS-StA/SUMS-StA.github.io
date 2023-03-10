@@ -15,6 +15,12 @@ I would like to put myself forward for the role of President.
 
 I would like to nominate myself as President firstly because I have been deeply involved with SUMS over the past year as secretary, attending, organising, and helping with the administration of many of our larger and smaller events. SUMS has been an integral part of my university life over the past year, and as I have gained experience with the admin side of the society, working together with our committee for larger projects such as pi ball, the Christmas dinner, the staff-student quiz, and more. Through this, I have gained valuable experience in the running of such a society, the system through which the society is run, and the general methods of the everyday running of SUMS. I would be honoured to take on the role of President, as I have seen the hard work of our current President Dan, and the smooth running of SUMS over the past year, where both academic and social events have catered to our entire membership, and am so passionate about this society, providing a space for friendly mathematical collaboration, a place to learn from our peers, and also a place where we make friends, have fun and be a supportive environment for all our members. I have many ideas for SUMS, as well as building on top of the fantastic work of Dan, to further our effort to provide a wide range of spaces for our members, where those who are a fan of academic maths, those who are just looking to make some friends and socialise, and all in between, have a place where they can do that.
 
+## Ella Yates
+
+### Applying for: **Vice President**
+
+Hi, I'm Ella a 4th year integrated masters maths student. This past year as social rep I've been part of the organizing and running of many SUMS events and through that have gotten to meet so many great people and make some amazing friends. I want to be Vice President to keep cultivating this open community of people enthusiastic about mathematics and to give even more people the opportunity to get involved whether it be to socialise, to learn or to do fun maths.
+
 ## Ifan Howells-Baines
 
 ### Applying for: **Secretary, General Committee Member**
@@ -28,12 +34,6 @@ I have been very active on the SUMS committee over the last few months, navigati
 ### Applying for: **Treasurer**
 
 I would like to run for treasurer because I'm organised and enjoyed my first years in SUMS. I've had experience working in a bank and can handle budgets very well.
-
-## Ella Yates
-
-### Applying for: Social Rep
-
-Hi, I'm Ella a 4th year integrated masters maths student. This past year as social rep I've been part of the organizing and running of many SUMS events and through that have gotten to meet so many great people and make some amazing friends. I want to be Vice President to keep cultivating this open community of people enthusiastic about mathematics and to give even more people the opportunity to get involved whether it be to socialise, to learn or to do fun maths.
 
 ## Carys Williams
 
@@ -55,7 +55,7 @@ If I am re-elected, I will continue to maintain and update the two websites, res
 
 ## Ioannis Dabos-Doukas
 
-### Applying for: General Committee Member
+### Applying for: **General Committee Member**
 
 I am running for General Committee member.
 I think I would be good for the role as I have experience in the same position and was nudged by someone who felt I would be good at the role.
