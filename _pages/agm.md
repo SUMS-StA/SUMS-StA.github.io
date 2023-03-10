@@ -8,11 +8,17 @@ Below you will find nominees for SUMS committee roles. Below each name you will 
 Voting:
 
 President: https://forms.office.com/e/DXRYEPN8WR
+
 Vice President: https://forms.office.com/e/yKLKS7eJY5
+
 Secretary: https://forms.office.com/e/hpYvbaDFMK
+
 Treasurer:https://forms.office.com/e/CvykYhvdKd
+
 First Year Rep: https://forms.office.com/e/RGBCxjiqHG
+
 Technical Officer: https://forms.office.com/e/ycAUEn0zpQ
+
 General Committee Members: https://forms.office.com/e/kn0jbbBPUM
 
 
