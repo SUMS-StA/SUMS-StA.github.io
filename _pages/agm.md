@@ -60,4 +60,18 @@ If I am re-elected, I will continue to maintain and update the two websites, res
 I am running for General Committee member.
 I think I would be good for the role as I have experience in the same position and was nudged by someone who felt I would be good at the role.
 
+## Niharika Chavan
+
+### Applying for: **General Committee Member**
+
+My name is Niharika Chavan and I am a direct entry second year Maths student. 
+
+I'd like to apply as a general committee member, if possible. 
+As SUMS members we're all united with our love of Mathematics, and I'd love to spread that enthusiasm by helping out at events and engaging with others. 
+
+I hope you will consider me for the role.
+
+
+
+
 
