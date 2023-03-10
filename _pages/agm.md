@@ -29,6 +29,12 @@ I have been very active on the SUMS committee over the last few months, navigati
 
 I would like to run for treasurer because I'm organised and enjoyed my first years in SUMS. I've had experience working in a bank and can handle budgets very well.
 
+## Ella Yates
+
+### Applying for: Social Rep
+
+Hi, I'm Ella a 4th year integrated masters maths student. This past year as social rep I've been part of the organizing and running of many SUMS events and through that have gotten to meet so many great people and make some amazing friends. I want to be Vice President to keep cultivating this open community of people enthusiastic about mathematics and to give even more people the opportunity to get involved whether it be to socialise, to learn or to do fun maths.
+
 ## Carys Williams
 
 ### Applying for: **First Year Rep, General Committee Member**
@@ -46,5 +52,12 @@ This year, I have built and maintained the sums website, consolidated and integr
 I hope that I was able to demonstrate my value to the society through my actions this year. I have also done various other coding projects such as writing problems and maintaining the platform for competitive programming and doing some research in machine learning. So hopefully I will be even more fit for the role if I am re-elected next year. 
 
 If I am re-elected, I will continue to maintain and update the two websites, respond to various request for other tech products that sums needs such as ticketing and payment. I hope I have proven to be useful and will continue to bring value to the team. 
+
+## Ioannis Dabos-Doukas
+
+### Applying for: General Committee Member
+
+I am running for General Committee member.
+I think I would be good for the role as I have experience in the same position and was nudged by someone who felt I would be good at the role.
 
 
