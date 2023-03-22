@@ -28,7 +28,29 @@ St Mary's Place \
 St Andrews \
 KY16 9UZ
 
-## Committee
+## Incoming Committee
+
+President: Leo Doherty
+
+Vice President: Ella Yates
+
+Treasurer: Tom Cooley
+
+Secretary: Ifan Howells-Baines
+
+Social Rep: Niharika Chavan
+
+First Year Rep: Carys Williams
+
+Events and Outreach Officer: Zoë Gemmell
+
+Technical Officer: Deyao Chen
+
+General Committee Members:
+- Rhys Murphy
+- Ioannis Dabos-Doukas
+
+## Outgoing Committee
 
 President: Daniel Roebuck
 
