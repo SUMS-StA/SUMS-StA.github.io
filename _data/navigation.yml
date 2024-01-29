@@ -1,4 +1,6 @@
 main:
+  - title: "AGM 2024"
+    url: /agm/
   - title: "Weekly Emails"
     url: /categories/#emails 
   - title: "Events"
